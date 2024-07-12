@@ -1,0 +1,36 @@
+*{
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+}
+h1{
+       background-color: blue;
+       text-align: center;
+}
+body{
+       background: linear-gradient(to left,rgb(25, 0, 255) ,rgb(255, 0, 0));
+}
+img{
+       height: 200px;
+       width: 300px;
+}
+p{
+       background-color: rgb(255, 255, 255);
+       color: black;
+       text-align: center;
+       width: 300px;
+}
+.card{
+       margin-top: 200px;
+}
+    
+
+.bigbox{
+       display: flex;
+       justify-content: space-around;
+}
+.team_nomi{
+    width: 200px;
+    margin-left: 800px;
+    
+}
